@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/81f109d8-b70a-402c-8b3c-4422b8ce5b58/resourceGroups/RGDurga/providers/Microsoft.Web/sites/WADurga",
+    "appService.deploySubpath": ""
+}
