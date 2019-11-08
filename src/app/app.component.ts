@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'Angular 8 Deployed in Azure - by DURGA RAO PANDURU';
+  title = 'Angular 8 Deployed in Azure using DEVOPS - by DURGA RAO PANDURU';
 }
